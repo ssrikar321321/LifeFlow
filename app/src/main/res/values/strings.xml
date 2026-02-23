@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LifeFlow</string>
+
+    <!-- Task arrays -->
+    <string-array name="task_categories">
+        <item>Research</item>
+        <item>Paper Writing</item>
+        <item>Meeting</item>
+        <item>Admin</item>
+        <item>UKAEA Prep</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="task_priorities">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Critical</item>
+    </string-array>
+
+    <!-- Chore arrays -->
+    <string-array name="chore_rooms">
+        <item>Kitchen</item>
+        <item>Washroom</item>
+        <item>Bedroom</item>
+        <item>Living Room</item>
+        <item>General</item>
+    </string-array>
+
+    <string-array name="chore_frequencies">
+        <item>Daily</item>
+        <item>Every 2 Days</item>
+        <item>Weekly</item>
+        <item>Biweekly</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <!-- Grocery categories -->
+    <string-array name="grocery_categories">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Dairy</item>
+        <item>Meat / Fish</item>
+        <item>Grains / Bread</item>
+        <item>Snacks</item>
+        <item>Beverages</item>
+        <item>Cleaning</item>
+        <item>Personal Care</item>
+        <item>General</item>
+    </string-array>
+
+    <!-- Expense categories -->
+    <string-array name="expense_categories">
+        <item>Groceries</item>
+        <item>Rent</item>
+        <item>Utilities</item>
+        <item>Transport</item>
+        <item>Health</item>
+        <item>Dining</item>
+        <item>Clothing</item>
+        <item>Entertainment</item>
+        <item>Research</item>
+        <item>Other</item>
+    </string-array>
+</resources>
